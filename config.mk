@@ -1,8 +1,8 @@
 # dmenu version
-VERSION = 5.2
+VERSION = 5.2-ajjackson
 
 # paths
-PREFIX = /home/adam/opt
+PREFIX = /usr
 MANPREFIX = $(PREFIX)/share/man
 
 X11INC = /usr/include/X11
